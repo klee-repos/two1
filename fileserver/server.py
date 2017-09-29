@@ -6,7 +6,7 @@ import json
 import random
 import os.path
 
-from flask import flask
+from flask import Flask
 from flask import request
 from flask import send_from_directory
 
